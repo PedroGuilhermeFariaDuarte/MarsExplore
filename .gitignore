@@ -14,5 +14,6 @@ web-report/
 .DS_Store
 
 # yarn
- yarn.lock
+ yarn.*
+ *.lock
  package.lock
